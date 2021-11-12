@@ -1,0 +1,7 @@
+Wylosowana tablica liczb:
+3, 4, 10, 12, 7, 13, 8, 10, 2, 5, 5, 12, 9, 2, 13, 
+
+Powtarzajacy sie element/elementy to:
+10 12 13 2 5 
+
+Zmierzony czas: 0.0010046

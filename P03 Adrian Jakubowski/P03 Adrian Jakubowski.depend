@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636654440 source:c:\users\48788\onedrive\pulpit\p03 adrian jakubowski\p03 adrian jakubowski\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<stdio.h>
+	<chrono>
+
